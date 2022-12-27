@@ -1,0 +1,18 @@
+.odd {
+    background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-weight: bold;
+}
